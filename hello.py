@@ -1,6 +1,9 @@
 def add(x, y):
     return x + y
 
-var=
+name=
+error=
+dasfsd
+
 result = add(7, 3)
 print(f"this is the sum: 7, 3, {result}")
